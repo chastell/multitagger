@@ -1,0 +1,13 @@
+google:
+  project: my_google_project
+  keyfile: my_google_project.json
+microsoft:
+  key: my_microsoft_api_key
+clarifai:
+  id: my_clarifai_app_id
+  secret: my_clarifai_app_secret
+algorithmia:
+  key: my_algorithmia_api_key
+imagga:
+  key: my_imagga_api_key
+  secret: my_imagga_api_secret
