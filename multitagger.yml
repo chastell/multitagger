@@ -1,0 +1,13 @@
+google:
+  project: ageless_camp_144114
+  keyfile: myproject.json
+microsoft:
+  key: 49e2329cef264792baad2015df718b9f
+clarifai:
+  id: Woo0CfRq6KPguKo6El-A2seSsgkIu-AZghqFWN73
+  secret: degh5LyCxuxtNRuXgHg_z4TtFAFNB1cp8ZBzqe3p
+algorithmia:
+  key: simqwtIQ1Qa/mqcMJN/o40OpDiG1
+imagga:
+  key: acc_13c81abfd244cdb
+  secret: a07314448855d0f0c9e5018272551936
